@@ -1,0 +1,214 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background:#EEE;
+	font-family: 'Work Sans', sans-serif;
+	
+}
+.container{
+	max-width:1000px;
+	background-color:#EFDDDD;
+	margin:0px auto;
+	padding:20px;
+}
+.main-bio{
+	width:60%;
+}
+
+.profile-img{
+	border: 3px solid white;
+	border-radius:50%;
+	width:150px;
+	height:150px;
+	float:left;
+}
+.bio{
+  float:left;
+  padding:45px;
+  margin-left:-30px;
+}
+.contact{
+	width:40%;
+	float:right;
+	padding:25px;
+	margin-right:-70px;
+}
+.contact:hover {
+    color: tomato;
+}
+
+.clear-div{
+	clear:both;
+	padding:10px;
+	
+}
+.common-hr{
+	border: solid black;
+	width:100%;
+	margin-bottom:20px;
+}
+.heading{
+	margin-bottom:12px;
+}
+.common-hr1{
+	border:1px solid black;
+	margin-bottom:10px;
+}
+.empheading{
+    width: 30%;
+	float:left;
+}
+.epcontent {
+    width: 70%;
+    float: right;
+    margin-right:-120px;
+	
+}
+.Academic.heading {
+    width: 30%;
+    float: left;
+
+}
+
+.Academic-content {
+    width: 70%;
+    float: right;
+    margin-right: -120px;
+}
+
+.bsc {
+       
+}
+
+p.h {
+    font-size: 20px;
+    color: #0a0a0a;
+	padding-bottom:10px;
+
+}
+.Training-heading {
+    width: 25%;
+    float: left;
+}
+
+.training1 {
+    width: 29%;
+    float: left;
+    padding-left: 5px;
+}
+p.topic {
+    font-size: 20px;
+    color: #0a0a0a;
+    margin-bottom: 10px;
+}
+p.topic2 {
+    font-size: 20px;
+    color: #0a0a0a;
+    margin-bottom: 10px;
+}
+.headingapp {
+    width: 40%;
+    float: left;
+    font-size: 15px;
+}
+
+.appliction-content {
+    width: 60%;
+    float: right;
+    margin-right: -12px;
+    line-height: 25px;
+}
+.Language {
+	
+    width:100%;
+	background:#ccb9b9;
+	padding:5px;
+	margin-bottom:10px;
+	
+}
+
+.Language-content {
+    width: 20%;
+    float: left;
+	padding:5px;
+
+}
+
+h4.high {
+}
+
+.Language-content1 {
+    width: 20%;
+    float: right;
+	
+}
+
+.Language-content2 {
+    width: 20%;
+    float: right;
+
+}
+h4.high1 {
+    margin-bottom: 10px;
+}
+
+h4.high2 {
+    margin-bottom: 10px;
+}
+
+h4.high2 {
+    margin-bottom: 10px;
+}
+h4.high {
+    margin-bottom: 10px;
+}
+.Personal-title {
+    width: 30%;
+    float: left;
+}
+
+.Personaldcontent {
+    width: 70%;
+    float: right;
+	margin-right:-109px;
+}
+.Reference-title{
+	width:100%;
+	background:#ccb9b9;
+	padding:5px;
+	margin-bottom:10px;
+	
+}
+.Reference01 {
+    width: 50%;
+    float: left;
+    padding: 5px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+footer.bottom-cotainer {
+    background: black;
+    text-align: center;
+    padding: 10px;
+}
+
+footer.bottom-cotainer a {
+    color:white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+footer.bottom-cotainer p {
+	color:white;
+	margin-top:20px;
+}
+.common-hrlast{
+	clear:both;
+	margin-bottom:30px;
+	border: 1px solid black;
+}
